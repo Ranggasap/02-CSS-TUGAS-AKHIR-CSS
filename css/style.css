@@ -1,0 +1,13 @@
+.carousel-item{
+    height: 520px;
+    overflow: hidden;
+}
+
+.slide {
+    border-bottom: #0D6EFD solid 10px;
+}
+
+.img-card {
+    height: 200px;
+    overflow: hidden;
+}
